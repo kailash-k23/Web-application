@@ -1,0 +1,320 @@
+@import url('https://fonts.googleapis.com/css2?family=Paytone+One&display=swap');
+
+
+/* Klenty Logo */ 
+
+.logo {
+    position: absolute;
+    width: 128.06px;
+    height: 60px;
+    left: 40px;
+    top: 30px;
+}
+
+/* Login and try in Navbar */
+
+.login {
+    position: absolute;
+    width: 52px;
+    height: 25px;
+    left: 1250px;
+    top: 48px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+ /* identical to box height */
+    text-align: center;
+    color: #05034E;
+}
+
+.try {
+
+    position: absolute;
+    width: 120px;
+    height: 25px;
+    left: 1340px;
+    top: 55px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 15px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 10px;
+}
+
+/* Motto and Marketing in the BODY */
+
+.motto h1{
+    position: absolute;
+    width: 497px;
+    height: 136px;
+    left: 472px;
+    top: 225px;
+    font-family: 'Paytone One', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48.83px;
+    line-height: 68px;
+    text-align: center;
+
+    color: #05034E;
+}
+
+.motto p{
+    position: absolute;
+    width: 873px;
+    height: 54px;
+    left: 284px;
+    top: 385px;
+
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+
+    color: #202020;
+}
+
+/* Marketing - LEFT */
+
+.marketing_LHS img{
+    position: absolute;
+    width: 45.41px;
+    height: 40px;
+    left: 159px;
+    top: 626px;
+}
+
+.marketing_LHS h2{
+    position: absolute;
+    width: 401px;
+    height: 54px;
+    left: 227px;
+    top: 621px;
+    font-family:sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 27px;
+    
+    color: #05034E;
+}
+
+.marketing_LHS p {
+    position: absolute;
+    width: 401px;
+    height: 88px;
+    left: 227px;
+    top: 695px;
+    
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    
+    color: #202020;
+}
+
+/* Marketing_RHS - RIGHT  */
+
+.marketing_RHS img{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 772px;
+    top: 628px;
+}
+
+.marketing_RHS h2 {
+    position: absolute;
+    width: 358px;
+    height: 54px;
+    left: 832px;
+    top: 621px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 27px;
+    
+    color: #05034E;
+}
+
+.marketing_RHS p {
+    position: absolute;
+    width: 403px;
+    height: 88px;
+    left: 831px;
+    top: 695px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    
+    color: #202020;
+}
+
+
+.swiper {
+    width: 1200px;
+    height: 500px;
+    
+
+}
+
+.swiper-button-prev {
+    position: absolute;
+    width: 20px;
+    height: 0px;
+    left: -80px;
+    top: 250px;
+    
+}
+
+.swiper-button-next {
+    position: absolute;
+    width: 20px;
+    height: 0px;
+    right: -80px;
+    top: 250px;
+    
+}
+
+.testimonial-bar{
+    position: absolute;
+    width: 1519px;
+    height: 711px;
+    left: 0px;
+    top: 861px;
+    
+    background: #F2F2FD;
+}
+
+.testimonial-bar h3 {
+    position: absolute;
+    width: 494px;
+    height: 41px;
+    left: 473px;
+    top: 80px;
+    font-family: 'Paytone One', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 31px;
+    line-height: 40px;
+    text-align: center;
+    color: #05034E;
+}
+
+.testimonial-cbox {
+    position: absolute;
+    width: 907px;
+    height: 450px;
+    left: 267px;
+    top: 181px;
+    
+    background: #FFFFFF;
+    box-shadow: 12px 12px 30px rgba(0, 0, 0, 0.08);
+    border-radius: 10px;
+}
+
+.topa {
+    position: absolute;
+    width: 280px;
+    height: 30px;
+    left: 300px;
+    top: 50px;
+}
+
+.topb {
+    position: absolute;
+    width: 40px;
+    height: 30px;
+    left: 152px;
+    top: 74px;
+    
+    
+}
+
+.topc {
+    position: absolute;
+    width: 40px;
+    height: 30px;
+    left: 711px;
+    top: 74px;
+    
+}
+
+.testimonial-cbox p {
+    position: absolute;
+    width: 614px;
+    height: 132px;
+    left: 146px;
+    top: 158px;
+    
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    
+    color: #202020;
+}
+
+.topd {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 299px;
+    top: 325px;
+    border: 1px solid #F1F1F1;
+    box-sizing: border-box;
+}
+
+.testimonial-cbox h5{
+    position: absolute;
+    width: 224px;
+    height: 60px;
+    left: 384px;
+    top: 325px;
+    
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 30px;
+    /* or 187% */
+    
+    
+    color: #05034E;
+}
+.testimonial-cbox h6 {
+    position: absolute;
+    width: 224px;
+    height: 60px;
+    left: 384px;
+    top: 360px;
+    
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    /* or 187% */
+    
+    
+    color: #05034E;
+}
